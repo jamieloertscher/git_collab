@@ -16,7 +16,7 @@ def info():
     return jsonify({
         "status": "running",
         "version": "1.0.0",
-        "description": "Flask-App fuer das Git-Merge-Training"
+        "description": "Flask-App fuer das Git-Merge-Training hello"
     })
 
 if __name__ == '__main__':
